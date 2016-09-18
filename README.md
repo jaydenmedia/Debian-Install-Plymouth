@@ -1,7 +1,7 @@
 # Debian-Install-Plymouth
 
 Description: Install Plymouth boot screen on Debian 6 / 7 / 8
-Written by: Josh Smith  on September 16, 2016
+#####Written by: Josh Smith  on September 16, 2016
 #### More about Plymouth: https://www.freedesktop.org/wiki/Software/Plymouth/
 Note: Read the entire script prior to running as there are some 
 		hardware config options.
